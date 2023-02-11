@@ -13,3 +13,7 @@
     border: 2px solid black;
     padding: 2rem;
 }
+
+.header {
+    grid-area: 1 / 2 / 2 / 5;
+}
