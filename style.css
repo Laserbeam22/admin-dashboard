@@ -21,3 +21,7 @@
 .sidebar {
     grid-row: span 6;
 }
+
+.main {
+    grid-area: span 5 / span 3;
+}
