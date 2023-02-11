@@ -17,3 +17,7 @@
 .header {
     grid-area: 1 / 2 / 2 / 5;
 }
+
+.sidebar {
+    grid-row: span 6;
+}
