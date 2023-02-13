@@ -15,13 +15,19 @@
     padding: 2rem;
 }
 
+/* HEADER SECTION */
+
 .header {
     grid-area: 1 / 2 / 2 / 6;
 }
 
+/* SIDEBAR SECTION */
+
 .sidebar {
     grid-row: span 5;
 }
+
+/* MAIN SECTION */
 
 .main {
     grid-area: span 5 / span 4;
