@@ -31,6 +31,10 @@ a {
     grid-row: span 5;
 }
 
+.nav, .branding {
+    display: grid;
+}
+
 /* MAIN SECTION */
 
 .main {
