@@ -34,6 +34,7 @@ a {
 .nav, .branding {
     display: grid;
     gap: 1rem;
+    margin-top: 3rem;
 }
 
 /* MAIN SECTION */
