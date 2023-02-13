@@ -20,7 +20,7 @@
 }
 
 .sidebar {
-    grid-row: span 6;
+    grid-row: span 5;
 }
 
 .main {
