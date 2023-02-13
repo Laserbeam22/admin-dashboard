@@ -33,6 +33,7 @@ a {
 
 .nav, .branding {
     display: grid;
+    gap: 1rem;
 }
 
 /* MAIN SECTION */
