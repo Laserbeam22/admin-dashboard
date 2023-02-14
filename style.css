@@ -30,6 +30,7 @@ a {
 .sidebar {
     grid-row: span 5;
     background-color: cadetblue;
+    color: white;
 }
 
 .nav, .branding {
