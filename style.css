@@ -38,6 +38,8 @@ a {
     display: grid;
     gap: 1rem;
     margin-top: 3rem;
+    font-size: larger;
+    font-weight: 600;
 }
 
 /* MAIN SECTION */
