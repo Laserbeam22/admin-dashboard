@@ -34,6 +34,10 @@ a {
     color: white;
 }
 
+h1 {
+    font-weight: 500;
+}
+
 .nav, .branding {
     display: grid;
     gap: 1rem;
