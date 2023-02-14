@@ -42,4 +42,5 @@ a {
 
 .main {
     grid-area: span 5 / span 4;
+    background-color: #609da030;
 }
