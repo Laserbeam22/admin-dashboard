@@ -14,6 +14,10 @@
 a {
     text-decoration: none;
     color: white;
+    display: grid;
+    grid-template-columns: 53px;
+    grid-auto-flow: column;
+    align-items: center;
 }
 
 /* HEADER SECTION */
