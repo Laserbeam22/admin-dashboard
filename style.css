@@ -43,6 +43,13 @@ h1 {
     font-weight: 600;
 }
 
+img[src*='svg'] {
+    grid-column-start: 1;
+    margin-right: 2rem;
+    width: 2rem;
+    filter: invert(1);
+}
+
 /* MAIN SECTION */
 
 .main {
