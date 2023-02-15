@@ -28,6 +28,7 @@ a {
     grid-row: span 5;
     background-color: cadetblue;
     color: white;
+    padding: 1rem;
 }
 
 h1 {
