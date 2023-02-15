@@ -33,6 +33,10 @@ a {
 
 h1 {
     font-weight: 500;
+    display: grid;
+    grid-template-columns: 60px;
+    grid-auto-flow: column;
+    align-items: center;
 }
 
 .nav, .branding {
