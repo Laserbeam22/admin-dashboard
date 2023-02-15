@@ -11,10 +11,6 @@
     grid-template: repeat(5, minmax(150px, 1fr)) / repeat(5, minmax(250px, 1fr));
 }
 
-.container > div {
-    padding: 2rem;
-}
-
 a {
     text-decoration: none;
     color: white;
