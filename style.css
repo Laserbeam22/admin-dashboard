@@ -50,6 +50,10 @@ img[src*='svg'] {
     filter: invert(1);
 }
 
+img[src*='dash'] {
+    width: 50px;
+}
+
 /* MAIN SECTION */
 
 .main {
