@@ -30,6 +30,13 @@ a {
     grid-auto-flow: column;
 }
 
+input {
+    border-radius: 5rem;
+    height: 2rem;
+    padding: 1rem;
+    background-color: #609da030;
+}
+
 .notification-area {
     display: grid;
     grid-auto-flow: column;
