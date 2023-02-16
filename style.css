@@ -33,6 +33,11 @@ a {
     grid-auto-flow: column;
 }
 
+.notification-area {
+    display: grid;
+    grid-auto-flow: column;
+}
+
 img[src*="tent"] {
     width: 3rem;
 }
