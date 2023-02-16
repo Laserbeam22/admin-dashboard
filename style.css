@@ -47,6 +47,10 @@ img[src*="tent"] {
     width: 3rem;
 }
 
+.profile-name {
+    color: black;
+}
+
 /* SIDEBAR SECTION */
 
 .sidebar {
