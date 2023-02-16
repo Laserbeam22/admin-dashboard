@@ -28,6 +28,10 @@ a {
     grid-auto-flow: column;
 }
 
+img[src*="tent"] {
+    width: 3rem;
+}
+
 /* SIDEBAR SECTION */
 
 .sidebar {
