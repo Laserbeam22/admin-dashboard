@@ -38,6 +38,11 @@ a {
     grid-auto-flow: column;
 }
 
+.greeting {
+    display: grid;
+    grid-auto-flow: column;
+}
+
 img[src*="tent"] {
     width: 3rem;
 }
