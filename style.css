@@ -28,6 +28,11 @@ a {
     grid-auto-flow: column;
 }
 
+.search {
+    display: grid;
+    grid-auto-flow: column;
+}
+
 img[src*="tent"] {
     width: 3rem;
 }
