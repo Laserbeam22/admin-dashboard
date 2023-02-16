@@ -56,6 +56,10 @@ input {
     width: 5rem;
 }
 
+.p1 {
+    font-size: small;
+} 
+
 img[src*="tent"] {
     width: 3rem;
 }
