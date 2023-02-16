@@ -39,6 +39,10 @@ a {
     grid-auto-flow: column;
 }
 
+.header-icon {
+    width: 2rem;
+}
+
 .greeting {
     display: grid;
     grid-auto-flow: column;
