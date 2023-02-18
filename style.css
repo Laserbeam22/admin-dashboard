@@ -165,3 +165,11 @@ img[src*='dash'] {
     grid-area: span 5 / span 4;
     background-color: #609da030;
 }
+
+.card-icon-btn {
+    width: 25px;
+}
+
+.trend-card > img {
+    width: 3rem;
+}
