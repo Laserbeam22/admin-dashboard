@@ -71,6 +71,10 @@ input {
     width: 5rem;
 }
 
+h2 > p {
+    margin-left: 20px;
+}
+
 .p1 {
     font-size: small;
 } 
