@@ -75,6 +75,11 @@ input {
     font-size: small;
 } 
 
+.p2 {
+    font-size: 22px;
+    font-weight: 600;
+}
+
 img[src*="tent"] {
     width: 3rem;
 }
