@@ -36,9 +36,11 @@ a {
 
 input {
     border-radius: 5rem;
+    border: none;
     height: 2rem;
     padding: 1rem;
     background-color: #609da030;
+    margin-left: 20px;
 }
 
 .notification-area {
