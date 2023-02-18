@@ -46,6 +46,12 @@ input {
 .notification-area {
     display: grid;
     grid-auto-flow: column;
+    align-items: center;
+    justify-content: left;
+    gap: 30px;
+    width: 322px;
+    grid-area: 1 / 4 / 2 / 5;
+    padding-left: 40px;
 }
 
 .header-icon {
