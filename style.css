@@ -90,6 +90,9 @@ img[src*="tent"] {
 
 .profile-name {
     color: black;
+    font-size: 1.2rem;
+    font-weight: 600;
+    width: max-content;
 }
 
 /* SIDEBAR SECTION */
