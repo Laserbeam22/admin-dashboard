@@ -28,6 +28,10 @@ a {
 .search {
     display: grid;
     grid-auto-flow: column;
+    grid-template-columns: 25px 1fr;
+    align-content: center;
+    padding-right: 7rem;
+    grid-area: 1 / 1 / 2 / 4;
 }
 
 input {
