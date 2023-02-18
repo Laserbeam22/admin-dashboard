@@ -76,11 +76,11 @@ h2 > p {
     margin-left: 20px;
 }
 
-.p1 {
+.greet-p1 {
     font-size: small;
 } 
 
-.p2 {
+.greet-p2 {
     font-size: 22px;
     font-weight: 600;
 }
