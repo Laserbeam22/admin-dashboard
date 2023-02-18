@@ -95,6 +95,15 @@ img[src*="tent"] {
     width: max-content;
 }
 
+.buttons {
+    display: grid;
+    grid-auto-flow: column;
+    align-items: center;
+    justify-content: end;
+    grid-area: 2 / 3 / 3 / 5;
+    gap: 30px;
+}
+
 /* SIDEBAR SECTION */
 
 .sidebar {
