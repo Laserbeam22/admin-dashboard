@@ -104,6 +104,17 @@ img[src*="tent"] {
     gap: 30px;
 }
 
+button {
+    border: none;
+    border-radius: 5rem;
+    padding: 10px 30px;
+    width: max-content;
+    background-color: cadetblue;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+}
+
 /* SIDEBAR SECTION */
 
 .sidebar {
