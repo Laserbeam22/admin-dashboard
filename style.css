@@ -168,14 +168,6 @@ img[src*='dash'] {
     grid-template: 1fr 1fr / 2fr 1fr;
 }
 
-.card-icon-btn {
-    width: 25px;
-}
-
-.trend-card > img {
-    width: 3rem;
-}
-
 .projects, .trending, .announcements {
     border: solid 1px black;
 }
@@ -188,6 +180,14 @@ img[src*='dash'] {
     border: solid 1px black;
 }
 
+.card-icon-btn {
+    width: 25px;
+}
+
 .trending {
     grid-column-start: 2;
+}
+
+.trend-card > img {
+    width: 3rem;
 }
