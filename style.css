@@ -184,6 +184,10 @@ img[src*='dash'] {
     grid-row: span 2;
 }
 
+.card {
+    border: solid 1px black;
+}
+
 .trending {
     grid-column-start: 2;
 }
