@@ -187,6 +187,10 @@ img[src*='dash'] {
     width: 25px;
 }
 
+.news-container, .trend-container {
+    border: solid 1px black;
+}
+
 .trending {
     grid-column-start: 2;
 }
