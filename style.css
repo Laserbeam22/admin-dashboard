@@ -173,3 +173,7 @@ img[src*='dash'] {
 .trend-card > img {
     width: 3rem;
 }
+
+.projects, .trending, .announcements {
+    border: solid 1px black;
+}
