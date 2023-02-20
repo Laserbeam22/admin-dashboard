@@ -179,3 +179,11 @@ img[src*='dash'] {
 .projects, .trending, .announcements {
     border: solid 1px black;
 }
+
+.projects {
+    grid-row: span 2;
+}
+
+.trending {
+    grid-column-start: 2;
+}
