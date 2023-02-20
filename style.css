@@ -189,6 +189,8 @@ img[src*='dash'] {
 
 .news-container, .trend-container {
     border: solid 1px black;
+    background-color: white;
+    border-radius: 10px;
 }
 
 .trending {
