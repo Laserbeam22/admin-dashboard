@@ -228,6 +228,8 @@ h3 {
     border: solid 1px black;
     background-color: white;
     border-radius: 10px;
+    width: 300px;
+    height: 335px;
 }
 
 .trending {
