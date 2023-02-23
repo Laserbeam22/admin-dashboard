@@ -248,6 +248,11 @@ h4 {
     font-size: 15px;
 }
 
+.news-card > p {
+    color: rgb(99, 99, 99);
+    font-size: 13px;
+}
+
 .trending {
     grid-column-start: 2;
 }
