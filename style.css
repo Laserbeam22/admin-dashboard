@@ -242,6 +242,12 @@ h3 {
     padding: 15px 5px;
 }
 
+h4 {
+    margin-bottom: 3px;
+    font-weight: 550;
+    font-size: 15px;
+}
+
 .trending {
     grid-column-start: 2;
 }
