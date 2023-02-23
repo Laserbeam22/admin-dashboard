@@ -232,6 +232,11 @@ h3 {
     height: 335px;
 }
 
+.news-container {
+    padding: 16px 30px 10px;
+    display: grid;
+}
+
 .trending {
     grid-column-start: 2;
 }
