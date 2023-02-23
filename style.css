@@ -195,6 +195,10 @@ img[src*='dash'] {
     width: 25px;
 }
 
+.card-icon-btn > a > img {
+    width: 25px;
+}
+
 .news-container, .trend-container {
     border: solid 1px black;
     background-color: white;
