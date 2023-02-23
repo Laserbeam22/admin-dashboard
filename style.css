@@ -196,6 +196,11 @@ img[src*='dash'] {
     border: solid 1px black;
     border-radius: 10px;
     background-color: white;
+    padding: 30px 30px 25px;
+    border-left: 8px solid #efc84a;
+    display: grid;
+    grid-template-rows: 20px 1fr 30px;
+    height: 225px;
 }
 
 .card-icon-btn {
