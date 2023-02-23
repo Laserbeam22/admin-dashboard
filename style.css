@@ -78,7 +78,8 @@ h2 > p {
 
 .greet-p1 {
     font-size: small;
-} 
+    padding-bottom: 5px;
+}
 
 .greet-p2 {
     font-size: 22px;
