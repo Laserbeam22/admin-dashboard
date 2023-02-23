@@ -237,6 +237,11 @@ h3 {
     display: grid;
 }
 
+.news-card {
+    align-self: center;
+    padding: 15px 5px;
+}
+
 .trending {
     grid-column-start: 2;
 }
