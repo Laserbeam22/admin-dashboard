@@ -283,3 +283,8 @@ h4 {
 .trend-p1 {
     align-self: end;
 }
+
+.trend-p2 {
+    color: rgb(99, 99, 99);
+    font-size: 15px;
+}
