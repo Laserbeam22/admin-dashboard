@@ -208,6 +208,11 @@ h3 {
     font-weight: 500;
 }
 
+.card > p {
+    font-size: 15px;
+    color: rgb(99, 99, 99);
+}
+
 .card-icon-btn {
     display: grid;
     grid-auto-flow: column;
