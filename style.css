@@ -279,3 +279,7 @@ h4 {
     margin-right: 18px;
     grid-row-start: span 2;
 }
+
+.trend-p1 {
+    align-self: end;
+}
