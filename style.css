@@ -178,7 +178,6 @@ img[src*='dash'] {
 }
 
 .projects {
-    grid-row: span 2;
     margin: 0px 30px 0px 28px;
 }
 
