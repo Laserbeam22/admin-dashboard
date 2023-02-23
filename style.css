@@ -21,8 +21,8 @@ a {
 .header {
     grid-area: 1 / 2 / 2 / 6;
     display: grid;
-    grid-template-columns: repeat(4, 1fr) 70px;
-    padding: 0 0 0 3rem;
+    grid-template: 70px 75px / repeat(4, 1fr) 70px;
+    padding: 5px 0 10px 3rem;
     box-shadow: rgb(121 121 121 / 45%) 0px 15px 15px -15px;
 }
 
