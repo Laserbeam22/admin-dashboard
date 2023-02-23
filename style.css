@@ -177,6 +177,12 @@ img[src*='dash'] {
     display: grid;
 }
 
+.projects-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    gap: 30px;
+}
+
 .card {
     border: solid 1px black;
     border-radius: 10px;
