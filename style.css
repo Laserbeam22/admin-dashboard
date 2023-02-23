@@ -261,6 +261,13 @@ h4 {
     grid-column-start: 2;
 }
 
+.trend-container {
+    display: grid;
+    padding: 25px;
+    align-content: center;
+    gap: 25px;
+}
+
 .trend-card {
     display: grid;
     grid-auto-flow: column;
